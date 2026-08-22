@@ -1,0 +1,10 @@
+-- Curadoria de conteúdo do bot: coluna aprovado_treble por documento
+-- (mind.knowledge_documents) e flags de bloco em treble.config
+-- (bloco_visao_geral, bloco_politicas, bloco_agenda_busca) que o
+-- treble_agent_context respeita. Aplicada em 2026-08-22.
+-- Estado atual A PEDIDO DA ADRIANA: tudo ativo (flags true, todos os
+-- documentos aprovados) — o mecanismo fica dormente para a curadoria
+-- item a item começar quando ela quiser.
+-- Também em 2026-08-22 (dados, não DDL): preços removidos dos textos dos
+-- documentos de ingresso (preço é papel de mind.offers) e \r\n
+-- normalizados em documentos e chunks.

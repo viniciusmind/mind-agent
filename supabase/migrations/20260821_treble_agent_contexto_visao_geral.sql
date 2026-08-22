@@ -1,0 +1,7 @@
+-- Visão geral de conteúdo sempre presente no contexto do agente:
+-- perguntas genéricas ("me fala do conteúdo") passam a ter matéria-prima
+-- mesmo quando a busca literal não encontra nada.
+-- Aplicada em 2026-08-21 (migration "treble_agent_contexto_visao_geral").
+-- Corpo: ver a definição vigente de public.treble_agent_context no banco
+-- (acrescenta a chave 'visao_geral': números, trilhas, palestrantes de
+-- destaque e dores do público a partir de mind.sessions/speakers/taxonomy).

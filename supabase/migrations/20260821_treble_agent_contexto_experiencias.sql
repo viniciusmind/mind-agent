@@ -1,0 +1,5 @@
+-- Os documentos que descrevem cada ingresso (o que inclui) e o FAQ
+-- passam a estar sempre no contexto do agente.
+-- Aplicada em 2026-08-22 (migration "treble_agent_contexto_experiencias");
+-- superada no mesmo dia por "treble_curadoria_conteudo", que acrescenta
+-- curadoria por documento/bloco. Ver definição vigente no banco.
